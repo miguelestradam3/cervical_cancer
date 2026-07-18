@@ -145,13 +145,3 @@ This project demonstrates how to:
 - Train an XGBoost classifier
 - Evaluate classification models using standard performance metrics
 
----
-
-## 🔮 Future Improvements
-
-- Hyperparameter tuning with GridSearchCV
-- Cross-validation
-- Feature importance visualization
-- ROC Curve and AUC analysis
-- Compare XGBoost with Logistic Regression, Random Forest, and Support Vector Machines
-- Deploy the trained model using Streamlit or Flask
